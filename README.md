@@ -19,7 +19,7 @@ Electonics Engineer
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/HP-Victus-0096D6?style=for-the-badge&logo=hp&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/RAM-16GB-000000?style=for-the-badge"/> <img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-### [<img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="25" style="vertical-align:middle;"/>] Leetcode Profile
+### <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="25" style="vertical-align:middle;"/> Leetcode Profile
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ABIKUMAR?theme=dark&font=ABeeZee&ext=contest)](https://leetcode.com/ABIKUMAR/)
 
