@@ -24,4 +24,4 @@ Electonics Engineer
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ABIKUMAR?theme=dark&font=ABeeZee&ext=contest)](https://leetcode.com/ABIKUMAR/)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ABI2525&bg_color=000000&color=d3cfcf&line=21e44b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ABI2525&bg_color=000000&color=d3cfcf&line=21e44b&point=ffffff&area=true&hide_border=true)](https://github.com/ABI2525)
