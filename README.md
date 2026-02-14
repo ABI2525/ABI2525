@@ -13,11 +13,14 @@ Electonics Engineer
 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000"/> <img height="50" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000"/ > <img height="50" src="https://img.ic  ons8.com/color/480/null/notion--v1.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=EPbEfEa7o8CB&format=png&color=000000"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=6RHskkZGRABM&format=png&color=000000"/> <img height="50" src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000"/>
+<img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png"/>
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/HP-Victus-0096D6?style=for-the-badge&logo=hp&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/RAM-16GB-000000?style=for-the-badge"/> <img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ABIKUMAR?theme=dark&font=Noto%20Sans%20Modi&ext=heatmap)
+### <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="25"/> Leetcode Profile
+![LeetCode Stats](https://leetcard.jacoblin.cool/ABIKUMAR?theme=dark&font=ABeeZee&ext=contest)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ABI2525&bg_color=000000&color=d3cfcf&line=21e44b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
